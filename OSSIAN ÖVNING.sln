@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSSIAN ÖVNING", "OSSIAN ÖVNING\OSSIAN ÖVNING.csproj", "{82C9931D-40E0-42A3-AD36-2D50D83E92F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82C9931D-40E0-42A3-AD36-2D50D83E92F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C9931D-40E0-42A3-AD36-2D50D83E92F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C9931D-40E0-42A3-AD36-2D50D83E92F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C9931D-40E0-42A3-AD36-2D50D83E92F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC86DB3A-01FB-43F3-A66D-DA846C49FD8F}
+	EndGlobalSection
+EndGlobal
